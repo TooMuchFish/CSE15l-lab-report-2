@@ -3,7 +3,7 @@
 Date: April 21, 2022
 
 This is the second lab report in my course of CSE 15L
-![welcome]( https://stock.adobe.com/images/word-welcome-on-cubes/285416224 )
+![welcome](https://as2.ftcdn.net/v2/jpg/00/74/04/71/1000_F_74047191_MmYUxOjF0TxwND45VyyqFM2kMsr8hzGt.jpg)
 Within this lab report, I'll introduce three code changes that in my group in order to fix a bug.
 * A screenshot of the code change 
 * Link to the test file for a failure-inducing input
