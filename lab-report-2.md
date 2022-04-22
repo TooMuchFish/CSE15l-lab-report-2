@@ -17,7 +17,7 @@ Within this lab report, I'll introduce three code changes that in my group in or
 # [link](https://github.com/eambrosio27/markdown-parser/commit/03aca9bffbf24720050087e71f6bf7b4e0b524c6)  to the test file for failure inducing input
 <img width="854" alt="15lrep2a1" src="https://user-images.githubusercontent.com/103075501/164575869-26fb26bf-9d5b-426f-bf11-feb383cb9aed.png">
 
-take place infinity loop
+Since there is an image link, infinity loop
 
 
 # code 2.
@@ -34,4 +34,8 @@ no kuohao
 
 <img width="730" alt="15lrep2c1" src="https://user-images.githubusercontent.com/103075501/164576597-d9631d6c-f08e-4428-91c5-fb70ef8a2be0.png">
 
-infinity loop
+too many spaces, infinity loop
+
+
+This is end of my lab2 report, thanks for your watching.
+![thanks](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommonlyusedwords.com%2Fthank-you-in-italian%2F&psig=AOvVaw1yZNWkwdzLiAtP7lrrvWRN&ust=1650676790828000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCUzr3ApvcCFQAAAAAdAAAAABAD)
