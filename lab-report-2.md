@@ -21,7 +21,8 @@ take place infinity loop
 
 
 # code 2.
-
+<img width="818" alt="15lreo2b1" src="https://user-images.githubusercontent.com/103075501/164576236-216e894b-5092-4ca8-959f-38964bdd8f2b.png">
+no kuohao
 
 # code 3.
 
