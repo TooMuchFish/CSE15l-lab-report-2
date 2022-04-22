@@ -17,6 +17,7 @@ Within this lab report, I'll introduce three code changes that in my group in or
 [link](https://github.com/eambrosio27/markdown-parser/commit/03aca9bffbf24720050087e71f6bf7b4e0b524c6)  to the test file for failure inducing input
 
 
+
 # 2. Link to the test file for a failure-inducing input
 
 <img width="967" alt="15lreport2b" src="https://user-images.githubusercontent.com/103075501/164571117-645f781e-97c5-42bf-afb7-e72028c98958.png">
@@ -25,4 +26,8 @@ Within this lab report, I'll introduce three code changes that in my group in or
 
 # 3. The symptom of that failure-inducing input
 
+
+
 # 4. Relationship between the bug, the symptom, and the failure-inducing input
+
+
