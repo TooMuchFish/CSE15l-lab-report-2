@@ -11,7 +11,7 @@ Within this lab report, I'll introduce three code changes that in my group in or
 * Relationship between the bug, the symptom, and the failure-inducing input
 
 
-# code 1. 
+# Code 1. 
 <img width="1045" alt="15lreport2" src="https://user-images.githubusercontent.com/103075501/164570323-239c1ed6-acca-44f0-bb11-c3f79a92d074.png">
 
 # [link](https://github.com/eambrosio27/markdown-parser/commit/03aca9bffbf24720050087e71f6bf7b4e0b524c6)  to the test file for failure inducing input
@@ -20,14 +20,14 @@ Within this lab report, I'll introduce three code changes that in my group in or
 Since there is an image link, infinity loop
 
 
-# code 2.
+# Code 2.
 <img width="994" alt="15lrep2b2" src="https://user-images.githubusercontent.com/103075501/164576663-9c52ed75-ebb8-4506-b9f9-480473f125b0.png">
 
 # [link](https://github.com/nidhidhamnani/markdown-parser/commit/f645d8519f425b1e8720559a3622073f09c615dc)   to the test file for failure inducing input
 <img width="818" alt="15lreo2b1" src="https://user-images.githubusercontent.com/103075501/164576236-216e894b-5092-4ca8-959f-38964bdd8f2b.png">
 no kuohao
 
-# code 3.
+# Code 3.
 <img width="867" alt="15lrep2c2" src="https://user-images.githubusercontent.com/103075501/164577216-f841d46d-e36c-449b-a5d9-acce239639d6.png">
 
 # [link](https://github.com/TooMuchFish/markdown-parser/blob/main/test3.md)   to the test file for failure inducing input
@@ -38,4 +38,4 @@ too many spaces, infinity loop
 
 
 # This is end of my lab2 report, thanks for your watching.
-![thanks](https://optinmonster.com/anatomy-of-the-perfect-thank-you-page/)
+![thanks](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fthank-you-card&psig=AOvVaw1yZNWkwdzLiAtP7lrrvWRN&ust=1650676790828000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCUzr3ApvcCFQAAAAAdAAAAABAV)
