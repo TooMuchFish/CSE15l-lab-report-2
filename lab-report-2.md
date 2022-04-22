@@ -39,7 +39,8 @@ Within this lab report, I'll introduce three code changes that in my group in or
 
 <img width="730" alt="15lrep2c1" src="https://user-images.githubusercontent.com/103075501/164576597-d9631d6c-f08e-4428-91c5-fb70ef8a2be0.png">
  
- For this code3, since I don't find more cases from [shared document](https://docs.google.com/document/d/1TDcdY4AVA8pRi1ITJ67m6TBaApn40q8BkqqqwC-LpWU/edit#heading=h.s8u88f6kqofr) in my group, then I made one myself. Its original code is `[a link]                (youtube.com)`, this is wrong because it has too many spaces between the signal "]" and "(", these spaces will made a infinite loop error in our system. So the correct format should be `[a link](youtube.com)`.
+ For this code3, since I don't find more cases from [shared document](https://docs.google.com/document/d/1TDcdY4AVA8pRi1ITJ67m6TBaApn40q8BkqqqwC-LpWU/edit#heading=h.s8u88f6kqofr) in my group, then I made one myself. Its original code is
+ `[a link]                (youtube.com)`, this is wrong because it has too many spaces between the signal "]" and "(", these spaces will made a infinite loop error in our system. So the correct format should be `[a link](youtube.com)`.
  
  
  
