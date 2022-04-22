@@ -21,9 +21,16 @@ take place infinity loop
 
 
 # code 2.
+<img width="994" alt="15lrep2b2" src="https://user-images.githubusercontent.com/103075501/164576663-9c52ed75-ebb8-4506-b9f9-480473f125b0.png">
+
+# [link](https://github.com/nidhidhamnani/markdown-parser/commit/f645d8519f425b1e8720559a3622073f09c615dc)
 <img width="818" alt="15lreo2b1" src="https://user-images.githubusercontent.com/103075501/164576236-216e894b-5092-4ca8-959f-38964bdd8f2b.png">
 no kuohao
 
 # code 3.
 
 
+#[link]()
+<img width="730" alt="15lrep2c1" src="https://user-images.githubusercontent.com/103075501/164576597-d9631d6c-f08e-4428-91c5-fb70ef8a2be0.png">
+
+infinity loop
