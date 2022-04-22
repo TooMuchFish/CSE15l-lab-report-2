@@ -28,9 +28,9 @@ take place infinity loop
 no kuohao
 
 # code 3.
+<img width="867" alt="15lrep2c2" src="https://user-images.githubusercontent.com/103075501/164577216-f841d46d-e36c-449b-a5d9-acce239639d6.png">
 
-
-#[link]()
+#[link](https://github.com/TooMuchFish/markdown-parser/blob/main/test3.md)
 <img width="730" alt="15lrep2c1" src="https://user-images.githubusercontent.com/103075501/164576597-d9631d6c-f08e-4428-91c5-fb70ef8a2be0.png">
 
 infinity loop
