@@ -12,8 +12,8 @@ Within this lab report, I'll introduce three code changes that in my group in or
 
 
 # 1. A screenshot of the code change
-[link](https://github.com/eambrosio27/markdown-parser/commit/03aca9bffbf24720050087e71f6bf7b4e0b524c6)  to the test file for failure inducing input
 <img width="1045" alt="15lreport2" src="https://user-images.githubusercontent.com/103075501/164570323-239c1ed6-acca-44f0-bb11-c3f79a92d074.png">
+[link](https://github.com/eambrosio27/markdown-parser/commit/03aca9bffbf24720050087e71f6bf7b4e0b524c6)  to the test file for failure inducing input
 
 
 # 2. Link to the test file for a failure-inducing input
