@@ -39,7 +39,7 @@ Since there is an image link, infinity loop
 
 <img width="730" alt="15lrep2c1" src="https://user-images.githubusercontent.com/103075501/164576597-d9631d6c-f08e-4428-91c5-fb70ef8a2be0.png">
  
-too many spaces, infinity loop
+ For this code3, its original code is `[a link]                (youtube.com)`, this is wrong because it has too many spaces between the signal "]" and "(", these spaces will made a infinite loop error in our system. So the correct format should be `[a link](youtube.com)`.
  
  
  
