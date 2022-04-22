@@ -15,8 +15,9 @@ Within this lab report, I'll introduce three code changes that in my group in or
 <img width="1045" alt="15lreport2" src="https://user-images.githubusercontent.com/103075501/164570323-239c1ed6-acca-44f0-bb11-c3f79a92d074.png">
 
 # [link](https://github.com/eambrosio27/markdown-parser/commit/03aca9bffbf24720050087e71f6bf7b4e0b524c6)  to the test file for failure inducing input
+<img width="854" alt="15lrep2a1" src="https://user-images.githubusercontent.com/103075501/164575869-26fb26bf-9d5b-426f-bf11-feb383cb9aed.png">
 
-<img width="967" alt="15lreport2b" src="https://user-images.githubusercontent.com/103075501/164571117-645f781e-97c5-42bf-afb7-e72028c98958.png">
+
 
 
 # code 2.
