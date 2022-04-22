@@ -28,7 +28,7 @@ Since there is an image link, infinity loop
 # [link](https://github.com/nidhidhamnani/markdown-parser/commit/f645d8519f425b1e8720559a3622073f09c615dc)   to the Code 2  file for failure inducing input
 <img width="818" alt="15lreo2b1" src="https://user-images.githubusercontent.com/103075501/164576236-216e894b-5092-4ca8-959f-38964bdd8f2b.png">
   
-  There exist an error in '[link1]https://something.com' becasue since we want to give a hyperlink to transfer to the specifed website, we need to use the format that ` [link1](https://something.com) `, and the error is that we need a pair of parentheses to contain the website address.
+  There exist an error in ` [link1]https://something.com ` becasue since we want to give a hyperlink to transfer to the specifed website, we need to use the format that ` [link1](https://something.com) `, and the error is that we need a pair of parentheses to contain the website address.
  
  
  
