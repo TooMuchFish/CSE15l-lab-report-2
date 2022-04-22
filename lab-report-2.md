@@ -29,16 +29,19 @@ Within this lab report, I'll introduce three code changes that in my group in or
 <img width="818" alt="15lreo2b1" src="https://user-images.githubusercontent.com/103075501/164576236-216e894b-5092-4ca8-959f-38964bdd8f2b.png">
   
   There exist an error in ` [link1]https://something.com ` becasue since we want to give a hyperlink to transfer to the specifed website, we need to use the format that ` [link1](https://something.com) `, and the error is that we need a pair of parentheses to contain the website address.
->
+
+
+
 # Code 3.
 <img width="867" alt="15lrep2c2" src="https://user-images.githubusercontent.com/103075501/164577216-f841d46d-e36c-449b-a5d9-acce239639d6.png">
- >
+ 
 # [link](https://github.com/TooMuchFish/markdown-parser/blob/main/test3.md)   to the Code 3 file for failure inducing input
->
+
 <img width="730" alt="15lrep2c1" src="https://user-images.githubusercontent.com/103075501/164576597-d9631d6c-f08e-4428-91c5-fb70ef8a2be0.png">
- >
+ 
  For this code3, since I don't find more cases from [shared document](https://docs.google.com/document/d/1TDcdY4AVA8pRi1ITJ67m6TBaApn40q8BkqqqwC-LpWU/edit#heading=h.s8u88f6kqofr) in my group, then I made one myself. Its original code is
- > `[a link]                (youtube.com)`, this is wrong because it has too many spaces between the signal "]" and "(", these spaces will made a infinite loop error in our system. So the correct format should be `[a link](youtube.com)`.
+ >
+  `[a link]                (youtube.com)`, this is wrong because it has too many spaces between the signal "]" and "(", these spaces will made a infinite loop error in our system. So the correct format should be `[a link](youtube.com)`.
  
  
  
