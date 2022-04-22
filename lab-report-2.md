@@ -17,7 +17,7 @@ Within this lab report, I'll introduce three code changes that in my group in or
 # [link](https://github.com/eambrosio27/markdown-parser/commit/03aca9bffbf24720050087e71f6bf7b4e0b524c6)  to the Code 1 file for failure inducing input
 <img width="854" alt="15lrep2a1" src="https://user-images.githubusercontent.com/103075501/164575869-26fb26bf-9d5b-426f-bf11-feb383cb9aed.png">
  
-  Since there is an image link, and its code is ` ![Image](link.png)`, this is wrong because 
+  Since there is an image link, and its code is ` ![Image](link.png)`, an error will take place because 
  
  
  
