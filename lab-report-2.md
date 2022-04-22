@@ -38,4 +38,4 @@ too many spaces, infinity loop
 
 
 # This is end of my lab2 report, thanks for your watching.
-![thanks](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fthank-you-card&psig=AOvVaw1yZNWkwdzLiAtP7lrrvWRN&ust=1650676790828000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCUzr3ApvcCFQAAAAAdAAAAABAV)
+![thanks](https://user-images.githubusercontent.com/103075501/162642394-44533b1f-86e6-4dd4-ac23-0c8392cfdbbb.jpg)
