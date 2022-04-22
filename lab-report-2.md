@@ -17,6 +17,9 @@ Within this lab report, I'll introduce three code changes that in my group in or
 
 
 # 2. Link to the test file for a failure-inducing input
+<img width="967" alt="15lreport2b" src="https://user-images.githubusercontent.com/103075501/164571117-645f781e-97c5-42bf-afb7-e72028c98958.png">
+
+
 
 # 3. The symptom of that failure-inducing input
 
