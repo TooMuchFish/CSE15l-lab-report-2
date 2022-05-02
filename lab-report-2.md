@@ -10,8 +10,10 @@ Within this lab report, I'll introduce three code changes that in my group in or
 * The symptom of that failure-inducing input
 * Relationship between the bug, the symptom, and the failure-inducing input
  
- 
+
 # Code 1. 
+ ![code1](https://user-images.githubusercontent.com/103075501/166324169-77505d26-8a9f-486c-9d70-e9c54c063282.jpg)
+
 
 # [link](https://github.com/eambrosio27/markdown-parser/commit/03aca9bffbf24720050087e71f6bf7b4e0b524c6)  to the Code 1 file for failure inducing input
 <img width="854" alt="15lrep2a1" src="https://user-images.githubusercontent.com/103075501/164575869-26fb26bf-9d5b-426f-bf11-feb383cb9aed.png">
